@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 GitHub Stats URL:-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RexenN &theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RexenN&theme=onedark)
 
 
