@@ -26,6 +26,11 @@ Here are some ideas to get you started:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
     width="60px"
   />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RexenN&theme=tokyonight)
 
 
