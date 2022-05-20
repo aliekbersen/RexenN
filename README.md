@@ -40,10 +40,9 @@ Here are some ideas to get you started:
 Certificates:
 
 - Modern JavaScript / The Net Ninja UK
+- Responsive Web Design Certification / freeCodeCamp
+- Build Web Apps with React & Firebase / The Net Ninja UK  
 <!--
 - FrontEnd Masters BootCamp / Frontend Masters
 - JavaScript Algorithms and Data Structures / freeCodeCamp -->
-- Responsive Web Design Certification / freeCodeCamp
-- Build Web Apps with React & Firebase / The Net Ninja UK  
-
 
