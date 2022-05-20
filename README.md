@@ -38,10 +38,12 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RexenN&layout=compact&theme=github_dark&hide_border=true)](https://github.com/RexenN/github-readme-stats)
 
 Certificates:
-<!--
+
 - Modern JavaScript / The Net Ninja UK
+<!--
 - FrontEnd Masters BootCamp / Frontend Masters
 - JavaScript Algorithms and Data Structures / freeCodeCamp -->
-- Responsive Web Design Certification / freeCodeCamp  
+- Responsive Web Design Certification / freeCodeCamp
+- Build Web Apps with React & Firebase / The Net Ninja UK  
 
 
